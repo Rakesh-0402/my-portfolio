@@ -1,0 +1,14 @@
+*.key
+*.log
+*.pem
+.DS_Store
+.env
+.env.*
+.env.local
+.idea
+.vercel
+.vscode
+Thumbs.db
+build
+dist
+node_modules
